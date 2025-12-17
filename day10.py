@@ -1,6 +1,3 @@
-from collections import Counter
-puzzle = '1'
-
 def run(x):
     seen = 0
     p = x[0]
